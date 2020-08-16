@@ -1,4 +1,4 @@
-# Ljetni Zadatak
+# Ljetni zadatak
 
 ##### 1. Za razvoj aplikacije je korišten Eclipse.
 ##### 2. Aplikacija ima izbornik na kojem su prikazane sve mogućnosti aplikacije.
