@@ -80,7 +80,7 @@ public class CRUDMetode {
 
 		try {
 
-			PreparedStatement query = Baza.otvoriVezu().prepareStatement("DELETE * FROM klijent WHERE sifra=?");
+			PreparedStatement query = Baza.otvoriVezu().prepareStatement("DELETE FROM klijent WHERE sifra=?");
 
 			query.setInt(1, redniBroj);
 
